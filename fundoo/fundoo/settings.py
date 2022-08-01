@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'chatdb',
         'USER': 'admin',
         'PASSWORD': '12345678',
-        'HOST': 'database-2.cqk5c9ysrwvy.ap-northeast-1.rds.amazonaws.com',
+        'HOST': '20220801101833115400000001.ca7pq9kw7pjk.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
