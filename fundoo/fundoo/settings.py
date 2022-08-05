@@ -103,10 +103,10 @@ CHANNEL_LAYERS = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'chatdb',
+        'NAME': 'My_RDS',
         'USER': 'admin',
         'PASSWORD': '12345678',
-        'HOST': 'terraform-20220801101833115400000001.ca7pq9kw7pjk.us-east-1.rds.amazonaws.com',
+        'HOST': 'terraform-20220805100552610000000001.ca7pq9kw7pjk.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
