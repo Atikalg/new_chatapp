@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'My_RDS',
         'USER': 'admin',
         'PASSWORD': '12345678',
-        'HOST': 'terraform-20220805100552610000000001.ca7pq9kw7pjk.us-east-1.rds.amazonaws.com',
+        'HOST': 'database',
         'PORT': '3306',
     }
 }
